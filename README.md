@@ -1,2 +1,2 @@
 # amazon-web-scraper
-Checks price of specific item
+Checks the price of specific item<br><br>
